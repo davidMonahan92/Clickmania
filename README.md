@@ -1,7 +1,7 @@
-Reaction-Tester-Game
+Clickamania
 ---------------------
 
-A game to test the limits of your quickness!
+A Reaction-Tester-Game to test the limits of your quickness!
 
 Click the random shapes as quick as you can and check out your quickest clicks in the results table.
 
