@@ -1,8 +1,11 @@
+Reaction-Tester-Game
+---------------------
+
 A game to test the limits of your quickness!
 
-Click the random coloured shapes as quick as you can and check out your quickest clicks in the results table.
+Click the random shapes as quick as you can and check out your quickest clicks in the results table.
 
-Enjoy an play the game here -> " "
+Enjoy and play the game here -> " "
 
 Details on this project:
   - Coded purely in HTML, CSS and JavaScript
