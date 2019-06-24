@@ -5,7 +5,7 @@ A Reaction-Tester-Game to test the limits of your quickness!
 
 Click the random shapes as quick as you can and check out your quickest clicks in the results table.
 
-Enjoy and play the game here -> " "
+Enjoy and play the game here -> https://davidmonahan92.github.io/Clickmania/
 
 Details on this project:
   - Coded purely in HTML, CSS and JavaScript
